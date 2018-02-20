@@ -5,7 +5,7 @@ addons:
   sonarcloud:
     organization: "larryhu208-github"
     token:
-      secure: "f4121c595282fb5cbdd6204b88cffa3178eaaad9"
+      secure: "f4121c595282fb5cbdd6204b88cffa3178eaaad9" 
 jdk:
   - oraclejdk8
 script:
